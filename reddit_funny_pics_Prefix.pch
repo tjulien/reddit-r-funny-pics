@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'reddit_funny_pics' target in the 'reddit_funny_pics' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
